@@ -59,7 +59,7 @@ set termguicolors
 colo nord
 let g:jedi#completions_enabled = 1
 let g:deoplete#enable_at_startup = 1
-
+let g:jedi#environment_path = "/usr/bin/python3.9"
 
 "NerdTree Configs**
 
